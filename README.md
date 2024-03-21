@@ -1,13 +1,6 @@
-# Model-free Learning with Heterogeneous Dynamical Systems: A Federated LQR Approach
+# Asynchronous Heterogeneous Linear Quadratic Regulator Design
 
-This repository includes the MATLAB codes to implement the experimental results of the following paper:
+This repository includes files for the following paper:
 
-1) H. Wang, L. F. Toso, A. Mitra, J. Anderson (2022). [Model-free Learning with Heterogeneous Dynamical Systems: A Federated LQR Approach]
+1) L. F. Toso, H. Wang, J. Anderson (2024). [Asynchronous Heterogeneous Linear Quadratic Regulator Design]
 
-## Instructions
-
-To run the codes in this repository, you only need a working MATLAB installation. 
-
-## Troubleshooting
-
-If you have any trouble running those codes or have any question about the paper, please email [Leonardo F. Toso](mailto:lt2879@columbia.edu).
