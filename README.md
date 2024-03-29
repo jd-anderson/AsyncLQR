@@ -2,5 +2,5 @@
 
 This repository includes files for the following paper:
 
-1) L. F. Toso, H. Wang, J. Anderson (2024). [Asynchronous Heterogeneous Linear Quadratic Regulator Design]
+1) L. F. Toso, H. Wang, J. Anderson (2024). [Asynchronous Heterogeneous Linear Quadratic Regulator Design](https://github.com/jd-anderson/AsyncLQR/blob/main/Asynchronous%20LQR%20Design.pdf)
 
