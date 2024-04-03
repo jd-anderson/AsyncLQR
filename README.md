@@ -5,7 +5,11 @@ This repository includes the Python codes to implement the experimental results 
 1) L. F. Toso*, H. Wang*, J. Anderson (2024). [Asynchronous Heterogeneous Linear Quadratic Regulator Design](https://github.com/jd-anderson/AsyncLQR/blob/main/Asynchronous%20LQR%20Design.pdf)
 
 ^* = equal contribution.
-  
+
+## Notation
+
+To ease notation, in the paper we denote the step-size as $\eta$
+
 ## Instructions
 
 To run the codes in this repository, you only need a working Jupyter installation.
