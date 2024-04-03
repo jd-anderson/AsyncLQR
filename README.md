@@ -8,7 +8,7 @@ This repository includes the Python codes to implement the experimental results 
 
 ## Notation
 
-To ease notation, in the paper we denote the step-size as $\eta$. This is equivalent to $\eta_g \times \eta_l$ in the code, where $\eta_g$ denotes the global step-size (i.e., the step-size used by the server to update the controller) and $\eta_l$ corresponds to the local step-size (i.e., the step-size used to update each system controller locally). 
+To ease notation, in the paper we denote the step-size as $\eta$. This is equivalent to $\eta_g \times \eta_l$ in the code, where $\eta_g$ denotes the global step-size (i.e., the step-size used by the server to update the controller) and $\eta_l$ corresponds to the local step-size (i.e., the step-size used to update each system's controller locally). 
 
 ## Instructions
 
