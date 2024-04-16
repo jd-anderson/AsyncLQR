@@ -2,7 +2,7 @@
 
 This repository includes the Python codes to implement the experimental results of the following paper:
 
-1) L. F. Toso*, H. Wang*, J. Anderson (2024). [Asynchronous Heterogeneous Linear Quadratic Regulator Design](https://github.com/jd-anderson/AsyncLQR/blob/main/Asynchronous%20LQR%20Design.pdf)
+1) L. F. Toso*, H. Wang*, J. Anderson (2024). [Asynchronous Heterogeneous Linear Quadratic Regulator Design](https://arxiv.org/abs/2404.09061)
 
 ^* = equal contribution.
 
